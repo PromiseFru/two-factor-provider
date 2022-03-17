@@ -1,2 +1,2 @@
 # Two-Factor Provider
-TFP exposes a **REST API** for initializing and validating an SMS two-actor authentication.
+TFP exposes a **REST API** for initializing and validating an SMS two-factor authentication.
