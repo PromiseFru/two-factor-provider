@@ -1,2 +1,2 @@
 # Two-Factor Provider
-TFP gives you the ability to create and plug in a two-factor authentication system into your product
+TFP exposes a **REST API** for initializing and validating an SMS two-actor authentication.
